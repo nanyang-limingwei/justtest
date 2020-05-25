@@ -1,3 +1,3 @@
 <?
-echo lalala;
-echo lll;
+echo 1;
+echo 2;
